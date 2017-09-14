@@ -23,7 +23,7 @@ It is built on the Git revision control system and offers free accounts for open
 We will employ a Git archive for programming challenges throughout the semester.
 The master Git repository for this course is hosted on GitHub.
 
-https://github.com/CourseReps/ECEN489-Spring2016.git
+https://github.com/CourseReps/ECEN626-Fall2017.git
 
 Active participants are given write access to the master repository.
 A short list of frequently used commands appears below.
