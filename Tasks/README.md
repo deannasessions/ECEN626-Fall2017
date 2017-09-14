@@ -16,3 +16,8 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [PyCharm](https://www.jetbrains.com/pycharm-educational/)
 * [Anaconda](https://www.continuum.io/downloads)
 
+
+## [Task 2](./3Task.md): Student Information
+* [PyCharm](https://www.jetbrains.com/pycharm-educational/)
+* [Anaconda](https://www.continuum.io/downloads)
+
